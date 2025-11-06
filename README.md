@@ -47,8 +47,8 @@ Edit `public/face-tracker.css` to change size, shape, or add effects. Wrap the `
 
 ## Reference
 
-Original post: https://x.com/fofrAI/status/1986076417809928568
-Replicate playground: https://replicate.com/kylan02/face-looker
+- Original post: https://x.com/fofrAI/status/1986076417809928568
+- Replicate playground: https://replicate.com/kylan02/face-looker
 
 ## License
 
