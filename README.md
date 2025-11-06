@@ -45,6 +45,11 @@ const STEP = 3;
 
 Edit `public/face-tracker.css` to change size, shape, or add effects. Wrap the `.face-tracker` in your own container to control its dimensions.
 
+## Reference
+
+Original post: https://x.com/fofrAI/status/1986076417809928568
+Replicate playground: https://replicate.com/kylan02/face-looker
+
 ## License
 
 MIT — use in personal and commercial projects.
