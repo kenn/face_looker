@@ -29,6 +29,19 @@
         font-family: ui-sans-serif, system-ui, Arial, sans-serif;
         color: #333;
       }
+      .repo-link {
+        position: fixed;
+        bottom: 16px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-family: ui-sans-serif, system-ui, Arial, sans-serif;
+        color: #1a73e8;
+        text-decoration: none;
+      }
+      .repo-link:hover,
+      .repo-link:focus {
+        text-decoration: underline;
+      }
     </style>
   </head>
   <body>
@@ -41,6 +54,15 @@
         data-debug="false"
       ></div>
     </div>
+
+    <a
+      class="repo-link"
+      href="https://github.com/kenn/face_looker"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      View source on GitHub
+    </a>
 
     <script src="./face-tracker.js" defer></script>
   </body>
